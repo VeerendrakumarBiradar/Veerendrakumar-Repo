@@ -1,4 +1,4 @@
-# 🛒 Coles Retail Multi-Agent Data Assistant
+# 🛒 Retail Multi-Agent Data Assistant
 
 An enterprise multi-agent data engineering and analytics platform powered by **LangGraph**, **PostgreSQL**, and **Streamlit**.
 
